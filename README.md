@@ -1,7 +1,8 @@
 <div align="center">
 
   # 你没事吧
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+  今天天气很好
+   适合晒网
 
   [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
   [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
